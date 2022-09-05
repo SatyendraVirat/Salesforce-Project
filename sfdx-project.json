@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "bikeCard",
+  "name": "HelloWorldLightningWebComponent",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "55.0"
